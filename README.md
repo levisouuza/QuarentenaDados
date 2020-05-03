@@ -1,2 +1,2 @@
 # QuarentenaDados
-Repository created for include notebooks developed in QuarentenaDados Alura's project.
+Repositório criado para incluir os notebooks criados no projeto Quarentena Dados da Alura.
